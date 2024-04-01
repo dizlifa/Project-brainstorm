@@ -1,9 +1,10 @@
 # Preproposal
 
 ## What idea(s) do you have for your final project? 
-New Tiktok
+New form Tiktok to replace original because it is shutting down
 New VST for fl studio 
 Hair braiding website for booking appointments
+simple soccer game
 
 TODO
 
